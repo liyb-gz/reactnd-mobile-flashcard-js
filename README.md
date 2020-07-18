@@ -34,7 +34,7 @@ You have full control on your cards and decks. Here is what you can do in the fl
 
 ## Third Party Libraries used
 
-This app is created with [React Native](https://reactnative.dev/) and [Expo](https://expo.io/) using [TypeScript](https://www.typescriptlang.org/).
+This app is created with [React Native](https://reactnative.dev/) and [Expo](https://expo.io/) using [TypeScript](https://www.typescriptlang.org/). Just to fit into Udacity's review system, it is transpiled to Javascript. The original TypeScript repo is: https://github.com/liyb-gz/reactnd-mobile-flashcard
 
 Other libraries used are:
 
